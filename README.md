@@ -31,6 +31,10 @@ Which Languages and Libraries are used :
 * [Deno](https://deno.land/)
 * [Typescript](https://www.typescriptlang.org/)
 
+## RUN THE PROJECT
+Just enter the command line:
+`deno run --allow-net https://raw.githubusercontent.com/jeferson0993/Rest_api_deno/master/rest_api_server.ts`
+
 <!-- ROADMAP -->
 ## Roadmap
 
